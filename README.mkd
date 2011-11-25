@@ -1,0 +1,17 @@
+---
+Title: VimOperate for Opera
+Description: Bringing Vim's functionality to Opera
+Author: Roland Siegbert
+Created:  2011 Nov 25
+
+---
+
+VimOperate for Opera
+====================
+
+Developed by Roland Siegbert <roland.siegbert@kreatium.de>
+
+Features implemented:
+---------------------
+
+* Basic navigation (h,j,k,l)
